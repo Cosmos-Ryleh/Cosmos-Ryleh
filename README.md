@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cosmos-Ryleh
 - 👀 I’m interested in becoming a good programmer and professional
-- 🌱 I’m currently learning Python and A+, and I plan on learning more about cybersecurity and API's in the future!
+- 🌱 I’m currently learning Python and A+, and I plan on learning more about general cybersecurity, DevOps and API's in the future!
 - 💞️ I’m looking to collaborate on any begginner friendly project. I know HMTL 5, CSS, Ruby and a little bit of C#.
 - 📫 How to reach me : Send me an e-mail on cryleh.cromos.dark@gmail.com
  # First time using Github, and liking so far!
